@@ -1,6 +1,6 @@
 {
   "name": "wprsp",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Weighted pseudorandom subset picker",
   "main": "index.js",
   "scripts": {
