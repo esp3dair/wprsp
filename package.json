@@ -1,0 +1,14 @@
+{
+  "name": "wprsp",
+  "version": "1.0.0",
+  "description": "Weighted pseudorandom subset picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "esp3dair",
+  "license": "ISC",
+  "dependencies": {
+    "park-miller": "^1.1.0"
+  }
+}
